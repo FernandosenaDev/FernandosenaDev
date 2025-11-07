@@ -1,5 +1,5 @@
 <h1 style="font-family: Arial, sans-serif; font-weight: 700;">
-  Software Engineer
+  systems analyst and developer
   <img width="48" height="48" src="https://img.icons8.com/emoji/48/laptop-emoji.png" alt="Laptop" style="vertical-align: middle; margin-left: 10px;">
   
 </h1>
