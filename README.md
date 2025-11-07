@@ -4,4 +4,4 @@
   
 </h1>
 
-<img align="right" height="700px" width="120px" alt="GIF" src="https://github.com/FernandosenaDev/FernandosenaDev/blob/main/imagemfit.png">
+<img align="right" height="1000px" width="400px" alt="GIF" src="https://github.com/FernandosenaDev/FernandosenaDev/blob/main/imagemfit.png">
