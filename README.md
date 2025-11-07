@@ -6,4 +6,33 @@
 
   <!-- Imagem decorativa -->
   <img width="48" height="48" src="https://github.com/user-attachments/assets/08b3b127-0aff-410e-ac2e-76bbbea8d718" alt="Image">
+  <!-- GIF de desenvolvedor ocupando toda a tela -->
+<div class="full-gif-bg">
+  <img 
+    src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" 
+    alt="Developer GIF animado"
+  >
+</div>
+
+<style>
+/* Faz o GIF ocupar toda a tela */
+.full-gif-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  z-index: -1; /* fica atrás de todo o conteúdo */
+}
+
+/* Ajusta o GIF para preencher a tela inteira */
+.full-gif-bg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* preenche a tela sem distorcer */
+  display: block;
+}
+</style>
+
 </h1>
