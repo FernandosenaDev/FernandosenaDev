@@ -5,4 +5,4 @@
 </h1>
 
 
-<img align="right" height="730px" width="70px" alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.tvtropes.org%2Fpmwiki%2Fpub%2Fimages%2Fdr_marbles_cyberchase.png&f=1&nofb=1&ipt=ae13e39268b74b028f2992f510fda1f246a6956c5207948230ee297a4e8a9ab1">
+<img align="right" height="730px" width="120px" alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.tvtropes.org%2Fpmwiki%2Fpub%2Fimages%2Fdr_marbles_cyberchase.png&f=1&nofb=1&ipt=ae13e39268b74b028f2992f510fda1f246a6956c5207948230ee297a4e8a9ab1">
